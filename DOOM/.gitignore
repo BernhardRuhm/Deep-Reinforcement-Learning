@@ -1,0 +1,15 @@
+__pycache__
+_vizdoom
+.vscode
+_vizdoom.ini
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+
+# BC data creation
+bc_data_collection/
+
+model.onnx
